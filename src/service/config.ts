@@ -1,0 +1,9 @@
+
+export const CONSTANT = {
+    SCREEN_LIST: "LIST",
+    SCREEN_DETAILS: "DETAILS",
+    SCREEN_USER: "USER",
+    SCREEN_SEARCH: "SEARCH"
+}
+
+export const APP_ID = "605b3bc4891bc4499aa8a001"
